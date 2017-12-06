@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For SimpleDs18b20
+#######################################
+
+#######################################
+# Classes, datatypesds (KEYWORD1)
+#######################################
+
+SimpleDs18b20       KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+GetTemperature           KEYWORD2
+CaculateTemperature      KEYWORD2
+isFoundDataWarehouse     KEYWORD2
+ShelveData               KEYWORD2
+CheckSratchpadCRC        KEYWORD2
+ReCalculateCRC           KEYWORD2
+ReadByte                 KEYWORD2
+ReadSlot                 KEYWORD2
+SendCommand              KEYWORD2
+isConnected       		 KEYWORD2
+TestConnect        		 KEYWORD2
+TxReset       			 KEYWORD2
+RxResult        		 KEYWORD2
+ThroughRx         		 KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+######################################
+# Built-in variables (unused by default) (LITERAL2)
+#######################################
